@@ -1,0 +1,99 @@
+* {
+	font-family: comic sans MS;
+	padding: 0;
+	text-decoration: none;
+}
+
+.navbar img {
+	width: 60px;
+	height: 35px;
+}
+
+.navbar {
+	background-color: #76A6B0;
+}
+
+.navbar a{
+	color: #ffffff;
+}
+
+h3 {
+	color: #ffffff;
+}
+
+form div h3 {
+	margin-top: 0;
+	color: #000000;
+	background-color: #CDDEE2;
+}
+
+form h3 {
+	margin-top: 0;
+	color: #000000;
+	background-color: #CDDEE2;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+
+	height: 60px;
+	background-color: #76A6B0;
+}
+
+p {
+	color: #ffffff;
+}
+
+body {
+	background-color: #CDDEE2;
+}
+
+.navbar ul li a:hover {
+	background-color: #33A3BC;
+	disa
+}
+
+section form{
+	color: #000000;
+	margin-left: 420px;
+	margin-right: 480px;
+	margin-top: 60px;
+	margin: auto;
+	width: 40%;
+	max-width: 500%;
+	background: #76A6B0; 
+	padding: 30px;
+	padding-top: 20px;
+	border: 4px solid rgba(0,0,0,0.2);
+}
+
+#soloacceder {
+	margin-left: 630px;
+	margin-top: 30px;
+	width: 120px;
+	height: 80px;
+}
+
+nav div ul li {
+	margin-left: 100px;
+}
+
+#solologo {
+margin-top: 30px;
+margin-left: 0px;
+width: 100px;
+height: 50px;
+}
+
+button {
+	color: #CDDEE2;
+}
+
+
+
+section div img{
+	width: 100%;
+	max-width: 500%;
+}
